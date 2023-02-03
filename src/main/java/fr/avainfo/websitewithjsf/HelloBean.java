@@ -27,6 +27,6 @@ public class HelloBean {
     }
 
     public void submit() {
-        message = name;
+        message = "Mr. " + name;
     }
 }
